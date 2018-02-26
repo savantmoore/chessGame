@@ -1,0 +1,13 @@
+td {
+    border: 1px solid black;
+    width: 80px;
+    height: 80px;
+}
+
+.whiteSquare {
+    background-color: white;
+}
+
+.blackSquare {
+    background-color: black;
+}
